@@ -3,6 +3,7 @@ Simba Build History
 
 Date | Branch | Commit | Link
 ---- | -------| -------| ----
+2023/07-01 | finder-multithreading | [2aa718346e391ea225c54f80ec7fa54e8a7c209f](https://github.com/Villavu/Simba/commit/2aa718346e391ea225c54f80ec7fa54e8a7c209f) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/07-01%20finder-multithreading%202aa718346e391ea225c54f80ec7fa54e8a7c209f)
 2023/06-27 | finder-multithreading | [41d05f62bb9bdabc88e3ceb30f6dc241bb2012fb](https://github.com/Villavu/Simba/commit/41d05f62bb9bdabc88e3ceb30f6dc241bb2012fb) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/06-27%20finder-multithreading%2041d05f62bb9bdabc88e3ceb30f6dc241bb2012fb)
 2023/06-27 | finder-multithreading | [7f0283406f1e4a8ca378039d050c2924b6ccc2c6](https://github.com/Villavu/Simba/commit/7f0283406f1e4a8ca378039d050c2924b6ccc2c6) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/06-27%20finder-multithreading%207f0283406f1e4a8ca378039d050c2924b6ccc2c6)
 2023/06-27 | better-multithreading | [e08abbc3399f0e9f1f4d19533d470722a4a97222](https://github.com/Villavu/Simba/commit/e08abbc3399f0e9f1f4d19533d470722a4a97222) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/06-27%20better-multithreading%20e08abbc3399f0e9f1f4d19533d470722a4a97222)
