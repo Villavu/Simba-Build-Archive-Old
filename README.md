@@ -3,6 +3,7 @@ Simba Build History
 
 Date | Branch | Commit | Link
 ---- | -------| -------| ----
+2023/07-06 | simba1500 | [64e1ea1af56bb4cb2a8fd3678ba22c8281cdc093](https://github.com/Villavu/Simba/commit/64e1ea1af56bb4cb2a8fd3678ba22c8281cdc093) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/07-06%20simba1500%2064e1ea1af56bb4cb2a8fd3678ba22c8281cdc093)
 2023/07-06 | simba1500 | [7e1189e4bccf57d732f7655491f794a902dd6f97](https://github.com/Villavu/Simba/commit/7e1189e4bccf57d732f7655491f794a902dd6f97) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/07-06%20simba1500%207e1189e4bccf57d732f7655491f794a902dd6f97)
 2023/07-03 | simba1500 | [88d2b9fef69985737b3c95bc9ea4af99d8f64dab](https://github.com/Villavu/Simba/commit/88d2b9fef69985737b3c95bc9ea4af99d8f64dab) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/07-03%20simba1500%2088d2b9fef69985737b3c95bc9ea4af99d8f64dab)
 2023/07-02 | simba1500 | [b7fb8b863465daed83debe1631976ef07187c579](https://github.com/Villavu/Simba/commit/b7fb8b863465daed83debe1631976ef07187c579) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/07-02%20simba1500%20b7fb8b863465daed83debe1631976ef07187c579)
