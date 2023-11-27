@@ -3,6 +3,7 @@ Simba Build History
 
 Date | Branch | Commit | Link
 ---- | -------| -------| ----
+2023/11-27 | dev | [b4f456ac24f7b3f015fa5b3c66a89ee949bbd553](https://github.com/Villavu/Simba/commit/b4f456ac24f7b3f015fa5b3c66a89ee949bbd553) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/11-27%20dev%20b4f456ac24f7b3f015fa5b3c66a89ee949bbd553)
 2023/11-26 | dev | [0534ed2bd02da9eb9676c8b0002706e1b4d75beb](https://github.com/Villavu/Simba/commit/0534ed2bd02da9eb9676c8b0002706e1b4d75beb) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/11-26%20dev%200534ed2bd02da9eb9676c8b0002706e1b4d75beb)
 2023/11-25 | dev | [1b2c221be7d9e48b4cbf7ac560455f14018f86ed](https://github.com/Villavu/Simba/commit/1b2c221be7d9e48b4cbf7ac560455f14018f86ed) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/11-25%20dev%201b2c221be7d9e48b4cbf7ac560455f14018f86ed)
 2023/11-23 | dev | [724083938ac1ab8e5018b999129103f1081911ae](https://github.com/Villavu/Simba/commit/724083938ac1ab8e5018b999129103f1081911ae) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2023/11-23%20dev%20724083938ac1ab8e5018b999129103f1081911ae)
