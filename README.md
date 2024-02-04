@@ -3,6 +3,7 @@ Simba Build History
 
 Date | Branch | Commit | Link
 ---- | -------| -------| ----
+2024/02-04 | image-alpha-dev | [509ce43adcca755b4184583bbc8114ca34b6fda2](https://github.com/Villavu/Simba/commit/509ce43adcca755b4184583bbc8114ca34b6fda2) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/02-04%20image-alpha-dev%20509ce43adcca755b4184583bbc8114ca34b6fda2)
 2024/01-29 | image-alpha-dev | [6abcd2267bd71911ddfc096634b0f35f48dcb88c](https://github.com/Villavu/Simba/commit/6abcd2267bd71911ddfc096634b0f35f48dcb88c) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/01-29%20image-alpha-dev%206abcd2267bd71911ddfc096634b0f35f48dcb88c)
 2024/01-28 | image-alpha-dev | [a05ed94c32425730f6b219d390f017b7fe16f465](https://github.com/Villavu/Simba/commit/a05ed94c32425730f6b219d390f017b7fe16f465) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/01-28%20image-alpha-dev%20a05ed94c32425730f6b219d390f017b7fe16f465)
 2024/01-21 | simba2000 | [94e6c0984bee07bf8335f1d8188b3c27e152a62b](https://github.com/Villavu/Simba/commit/94e6c0984bee07bf8335f1d8188b3c27e152a62b) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/01-21%20simba2000%2094e6c0984bee07bf8335f1d8188b3c27e152a62b)
