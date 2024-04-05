@@ -1,6 +1,9 @@
 Simba Build History
 -------------------
 
+Will be deleted soon, repo size got too big too soon.
+To help prevent this Simba branches that start with dev/ will not be added here. 
+
 Date | Branch | Commit | Link
 ---- | -------| -------| ----
 2024/04-05 | simba2000 | [dab5d909ebfc9e2f2d77903b37b9bdb27f39fa30](https://github.com/Villavu/Simba/commit/dab5d909ebfc9e2f2d77903b37b9bdb27f39fa30) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/04-05%20simba2000%20dab5d909ebfc9e2f2d77903b37b9bdb27f39fa30)
